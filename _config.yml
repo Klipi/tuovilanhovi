@@ -3,8 +3,8 @@ title: Tuovilanhovi
 email: pentti@tuovilanhovi.fi
 description: > # this means to ignore newlines until "baseurl:"
   Tuovilanhovi on majoitus- ja juhlatila Kuopion kupeessa.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tuovilanhovi.fi" # the base hostname & protocol for your site
+baseurl: "/tuovilanhovi" # the subpath of your site, e.g. /blog/
+url: "klipi.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
