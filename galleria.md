@@ -4,17 +4,17 @@ title: Galleria
 permalink: /galleria/
 ---
 
-![Päärakennus](/images/paarakennus.jpg "Päärakennus")
+![Päärakennus]({{site.baseurl}}/images/paarakennus.jpg "Päärakennus")
 Päärakennus  
 
-![Piha](/images/piha.jpg "Piha")
+![Piha]({{site.baseurl}}/images/piha.jpg "Piha")
 Piha  
 
-![Sisätila](/images/sisatilat.jpg "Sisätila")
+![Sisätila]({{site.baseurl}}/images/sisatilat.jpg "Sisätila")
 Sisätila  
 
-![Keittiö](/images/keittio.jpg "Keittiö")
+![Keittiö]({{site.baseurl}}/images/keittio.jpg "Keittiö")
 Keittiö  
 
-![Kellari](/images/kellari.jpg "Kellari")
+![Kellari]({{site.baseurl}}/images/kellari.jpg "Kellari")
 Kellari
