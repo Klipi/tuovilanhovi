@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Tuovilanhovi
 ---
 
 ![Tuovilanhovi]({{site.baseurl}}/images/sisaankaynti.jpg "Tuovilanhovi")
